@@ -17,29 +17,29 @@
    - Create an image element using - Gray Wolf picture
 5. Your goal is to create a table with the proper headings. ![01_table](https://user-images.githubusercontent.com/6064268/174758644-24fa2f42-b90a-4a83-9038-25f67740fdba.png)
 6. Write a simple form with the following inputs (Add some div or p elements for spacing):
- - Username
+  - Username
     - Text input
     - Should have placeholder text of 'username'
     - Make sure to properly label the input (using id/for attributes)
- - Password
+  - Password
     - Password input
     - Should have placeholder text of 'password'
     - Make sure to properly label the input (using id/for attributes)
- - A Button
+  - A Button
     - With the inner text 'Register'
 7. Create a form for Race Registeration Race Registeration
- - Race Registeration (**heading 1**)
- - First Name (**text filed with label**)
- - Last name (**text field with label)**)
- - Select a Race (**radio button**)
+  - Race Registeration (**heading 1**)
+  - First Name (**text filed with label**)
+  - Last name (**text field with label)**)
+  - Select a Race (**radio button**)
     - Fun Run 5K
     - Half Marathon
     - Full Marathon
- - Email (**email filed with label**)
- - Password (**password filed with label**)
- - Select Age Group (**dropdown**)
+  - Email (**email filed with label**)
+  - Password (**password filed with label**)
+  - Select Age Group (**dropdown**)
     - Under 18
     - 18 - 30
     - 31 - 50
     - 50 +
- - Register (**Button**)
+  - Register (**Button**)
