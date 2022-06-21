@@ -9,8 +9,8 @@
 3. Explore the Developer Tools (Chrome) / Web Developer (Firefox)
 
 ## Lab - 2 (HTML - 1)
-1. Given file - Pangolin Format it according to ![04_pangolin](https://user-images.githubusercontent.com/6064268/174756916-18a7f508-5d0d-44f9-8e7a-a9549c5c9aa2.png)
-2. Given file - Movies Format it according to ![06_movies](https://user-images.githubusercontent.com/6064268/174757102-c15cb5b8-495b-4592-8f23-67118645ec82.png)
+1. Given file - [Pangolin Format](files/Pangolin.html) it according to ![04_pangolin](https://user-images.githubusercontent.com/6064268/174756916-18a7f508-5d0d-44f9-8e7a-a9549c5c9aa2.png)
+2. Given file - [Movies Format](files/movies.html) it according to ![06_movies](https://user-images.githubusercontent.com/6064268/174757102-c15cb5b8-495b-4592-8f23-67118645ec82.png)
 3. Given ![10_snowman](https://user-images.githubusercontent.com/6064268/174757271-7550392e-511e-4f20-a188-f37af706c7e3.png) Create the given figure.
 4. In wolf.html do the following
    - Create a link that goes to - Gray Wolf
