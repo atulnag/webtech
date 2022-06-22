@@ -28,18 +28,18 @@
     - A Button
         - With the inner text 'Register'
 7. Create a form for Race Registeration Race Registeration
-        - Race Registeration (**heading 1**)
-        - First Name (**text filed with label**)
-        - Last name (**text field with label)**)
-        - Select a Race (**radio button**)
-              - Fun Run 5K
-              - Half Marathon
-              - Full Marathon
-        - Email (**email filed with label**)
-        - Password (**password filed with label**)
-        - Select Age Group (**dropdown**)
-               - Under 18
-               - 18 - 30
-               - 31 - 50
-               - 50 +
-        - Register (**Button**)
+     - Race Registeration (**heading 1**)
+     - First Name (**text filed with label**)
+     - Last name (**text field with label)**)
+     - Select a Race (**radio button**)
+          - Fun Run 5K
+          - Half Marathon
+          - Full Marathon
+     - Email (**email filed with label**)
+     - Password (**password filed with label**)
+     - Select Age Group (**dropdown**)
+          - Under 18
+          - 18 - 30
+          - 31 - 50
+          - 50 +
+     - Register (**Button**)
